@@ -77,15 +77,20 @@
 
 ## 시연 영상
 ### CI/CD
-// B3O-CICD-최종.mp4 첨부
+https://github.com/ACS-High-School/.github/assets/84767822/990996ea-9ae4-4291-9dfa-835a122cffd6
+
 
 ### 모니터링
-// B3O-모니터링-최종.mp4 첨부
+https://github.com/ACS-High-School/.github/assets/84767822/3a899e95-ed42-43a3-9906-bdc30f3a17b0
+
 
 ### 서비스 & ML
-// B3O-서비스-최종.mp4 10MB 밑으로 해서 첨부
+https://github.com/ACS-High-School/.github/assets/84767822/fea4e8a4-d658-4e1a-b138-e5f4b47379f6
+
 
 <br>
+
+
 
 ## 팀 소개
 <img width="1879" alt="팀소개" src="https://github.com/ACS-High-School/.github/assets/84767822/744166b7-7b67-43ab-96f9-4c00ab00f509">
