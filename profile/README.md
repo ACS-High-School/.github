@@ -40,17 +40,17 @@
 <br>
 
 ## 기술 스택
-![기술 스택](https://github.com/ACS-High-School/.github/assets/84767822/715a6dc4-1d36-4b5a-9c04-71d7859e8b12)
+<img width="1113" alt="기술스택" src="https://github.com/ACS-High-School/.github/assets/84767822/bc49e20b-6ca2-4cae-ab1b-2c2267286387">
 
 <br>
 
 ## 아키텍처
-![아키텍처](https://github.com/ACS-High-School/.github/assets/84767822/7c3115be-f953-4910-b9fe-435067b63a36)
+<img width="1096" alt="아키텍처" src="https://github.com/ACS-High-School/.github/assets/84767822/81dddbbb-e80d-49fd-a378-77b4ac79c49d">
 
 <br>
 
 ## FlowChart
-![FlowChart](https://github.com/ACS-High-School/.github/assets/84767822/9e3be860-447e-464a-a8ee-a6d3c3094686)
+<img width="1047" alt="FlowChart" src="https://github.com/ACS-High-School/.github/assets/84767822/86ff1dc3-97fb-4d3a-952a-26c635e2aa6d">
 
 <br>
 
