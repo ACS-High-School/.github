@@ -8,6 +8,8 @@
   
 - [보고서](https://docs.google.com/document/d/1kFjMnBKZznUJAotCoSB4mtgbNWxHKEsq/edit?usp=sharing&ouid=106790920303116051702&rtpof=true&sd=true)
 
+- [Ground Rule](https://github.com/ACS-High-School/.github/wiki/Ground-Rule)
+
 <br>
 
 ## 프로젝트 소개 
